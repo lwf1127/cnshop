@@ -7,5 +7,5 @@ define("APP_NAME", "index");
 define("APP_PATH", "./index/");
 //引入核心文件
 include "ThinkPHP/ThinkPHP.php";
-
+//6666
 ?>
