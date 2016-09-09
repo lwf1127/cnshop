@@ -9,4 +9,5 @@ define("APP_PATH", "./index/");
 include "ThinkPHP/ThinkPHP.php";
 //6666
 echo "hello";
+///111111111111
 ?>
